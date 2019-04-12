@@ -1,0 +1,22 @@
+{
+  "name": "AwesomeAudio",
+  "version": "0.1.0",
+  "summary": "A short description of AwesomeAudio.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iOSWizards/AwesomeAudio",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Evandro Harrison Hoffmann": "evandro@itsdayoff.com"
+  },
+  "source": {
+    "git": "https://github.com/iOSWizards/AwesomeAudio.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AwesomeAudio/Classes/**/*"
+}

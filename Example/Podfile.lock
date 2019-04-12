@@ -1,0 +1,16 @@
+PODS:
+  - AwesomeAudio (0.1.0)
+
+DEPENDENCIES:
+  - AwesomeAudio (from `../`)
+
+EXTERNAL SOURCES:
+  AwesomeAudio:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AwesomeAudio: 528491e01a44bb0f67772935f2bf7763a168e603
+
+PODFILE CHECKSUM: dc2be248fe55fb3483395ecb55fdae4201dd2fbe
+
+COCOAPODS: 1.6.1
